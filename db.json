@@ -3,7 +3,7 @@
     { 
 	"parentName": "Things",
 	"name": "DemoThing2",
-	"description": ,
+	"description": "",
 	"id": "DemoThing2 #Thing",
 	"type": "Thing",
 	"parentType": "Things"
@@ -19,7 +19,7 @@
     {
     	"parentName": "DataShapes",
 	"name": "demoDS",
-	"description": ,
+	"description": "",
 	"id": "demoDS #DataShape",
 	"type": "DataShape",
 	"parentType": "DataShapes"
