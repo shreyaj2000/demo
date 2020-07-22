@@ -1,14 +1,29 @@
 {
   "posts": [
     { 
-      "parentName": "Things", 
-      "name": "DemoThing2" , 
-      "description": "",
-      "type": "Thing",
-	    "parentType": "Things"
+	"parentName": "Things",
+	"name": "DemoThing2",
+	"description": ,
+	"id": "DemoThing2 #Thing",
+	"type": "Thing",
+	"parentType": "Things"
     },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+	"parentName": "Things",
+	"name": "DemoThing",
+	"description": "",
+	"id": "DemoThing #Thing",
+	"type": "Thing",
+	"parentType": "Things"
+    },
+    {
+    	"parentName": "DataShapes",
+	"name": "demoDS",
+	"description": ,
+	"id": "demoDS #DataShape",
+	"type": "DataShape",
+	"parentType": "DataShapes"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
