@@ -3,7 +3,7 @@
     {
 	"parentName": "Things",
 	"name": "DemoThing2",
-	"description": ,
+	"description": "",
 	"id": "DemoThing2 #Thing",
 	"type": "Thing",
 	"parentType": "Things"
