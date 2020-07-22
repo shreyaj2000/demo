@@ -1,5 +1,6 @@
 {
   "posts": [
+    "rows": {
     { 
 	"parentName": "Things",
 	"name": "DemoThing2",
@@ -23,6 +24,7 @@
 	"id": "demoDS #DataShape",
 	"type": "DataShape",
 	"parentType": "DataShapes"
+    }
     }
   ],
   "comments": [
