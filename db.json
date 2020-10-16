@@ -20,12 +20,12 @@
                 {
                     "did": "2304a1fea062821da9534d04dc36ShreyaTest2",
                     "deviceName": "ShreyaTest2",
-                    "statusOfDID": "pending"
+                    "statusOfDID": "approved"
                 },
                 {
                     "did": "2304a1fea062821da9534d04dc36ShreyaTest3",
                     "deviceName": "ShreyaTest3",
-                    "statusOfDID": "pending"
+                    "statusOfDID": "rejected"
                 }
             ]
         }
