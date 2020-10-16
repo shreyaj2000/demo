@@ -1,35 +1,74 @@
 {
-  "posts": [
-    { 
-	"parentName": "Things",
-	"name": "DemoThing2",
-	"description": "",
-	"id": "DemoThing2 #Thing",
-	"type": "Thing",
-	"parentType": "Things"
-    },
-    {
-	"parentName": "Things",
-	"name": "DemoThing",
-	"description": "",
-	"id": "DemoThing #Thing",
-	"type": "Thing",
-	"parentType": "Things"
-    },
-    {
-    	"parentName": "DataShapes",
-	"name": "demoDS",
-	"description": "",
-	"id": "demoDS #DataShape",
-	"type": "DataShape",
-	"parentType": "DataShapes"
+    "allDevices": [
+        {
+            "rows": [
+                {
+                    "did": "did:scurid:0x23B5d25f99df893cc4d4cd39AFCB4E1a2A3b9883",
+                    "deviceName": "",
+                    "statusOfDID": "approved"
+                },
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest",
+                    "deviceName": "ShreyaTest",
+                    "statusOfDID": "pending"
+                },
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest1",
+                    "deviceName": "ShreyaTest1",
+                    "statusOfDID": "pending"
+                },
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest2",
+                    "deviceName": "ShreyaTest2",
+                    "statusOfDID": "pending"
+                },
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest3",
+                    "deviceName": "ShreyaTest3",
+                    "statusOfDID": "pending"
+                }
+            ]
+        }
+    ],
+    "pendingDevices": [
+        {
+            "rows": [
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest",
+                    "requestTimestamp": "timeStamp1"
+                },
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest1",
+                    "requestTimestamp": "timeStamp2"
+                }
+            ]
+        }
+    ],
+    "registeredDevices": [
+        {
+            "rows": [
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest2",
+                    "vInfo": "vInfo2",
+                    "created_on": "createdOn1",
+                    "last_verified_on": "lastVerified1",
+                    "device_name": "ShreyaTest2"
+                }
+            ]
+        }
+    ],
+    "rejectedDevices": [
+        {
+            "rows": [
+                {
+                    "did": "2304a1fea062821da9534d04dc36ShreyaTest3",
+                    "vInfo": "vInfo2",
+                    "rejectionTimestamp": "rejectedTimeStamp3"
+                }
+            ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
