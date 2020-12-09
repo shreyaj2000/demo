@@ -4,6 +4,7 @@
             "rows": [
                 {
                     "deviceDID": "SCURID:DID:SDFSF22423XXOHIUZOPUP",
+                    "deviceName": "demoDevice",
                     "dataTimestamp": 16478464,
                     "payload": "234234.3, -544.00",
                     "signature": "53w4sdfasdfafartb4q34tqfasdfasdf",
@@ -11,6 +12,7 @@
                 },
                 {
                     "deviceDID": "SCURID:DID:SDFSF22423XXOHIUZOPUP",
+                    "deviceName": "demoDevice",
                     "dataTimestamp": 16478465,
                     "payload": "487.3, -125.00",
                     "signature": "53w4sdfasdfafartb4q34tqfasdfasdf",
@@ -18,6 +20,7 @@
                 },
                 {
                     "deviceDID": "SCURID:DID:SDFSF22423XXOHIUZOPUP",
+                    "deviceName": "demoDevice",
                     "dataTimestamp": 16478466,
                     "payload": "485.3, -5.00",
                     "signature": "",
@@ -67,30 +70,6 @@
                 {
                     "did": "2304a1fea062821da9534d04dc36ShreyaTest1",
                     "requestTimestamp": "timeStamp2"
-                }
-            ]
-        }
-    ],
-    "registeredDevices": [
-        {
-            "rows": [
-                {
-                    "did": "2304a1fea062821da9534d04dc36ShreyaTest2",
-                    "vInfo": "vInfo2",
-                    "created_on": "createdOn1",
-                    "last_verified_on": "lastVerified1",
-                    "device_name": "ShreyaTest2"
-                }
-            ]
-        }
-    ],
-    "rejectedDevices": [
-        {
-            "rows": [
-                {
-                    "did": "2304a1fea062821da9534d04dc36ShreyaTest3",
-                    "vInfo": "vInfo2",
-                    "rejectionTimestamp": "rejectedTimeStamp3"
                 }
             ]
         }
