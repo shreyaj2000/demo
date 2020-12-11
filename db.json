@@ -66,10 +66,12 @@
                 {
                     "did": "2304a1fea062821da9534d04dc36ShreyaTest",
                     "requestTimestamp": "timeStamp1"
+                    "versionInfo": "v1.01"
                 },
                 {
                     "did": "2304a1fea062821da9534d04dc36ShreyaTest1",
                     "requestTimestamp": "timeStamp2"
+                    "versionInfo": "v1.02"
                 }
             ]
         }
