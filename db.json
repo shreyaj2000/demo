@@ -5,7 +5,7 @@
                 {
                     "deviceDID": "SCURID:DID:SDFSF22423XXOHIUZOPUP",
                     "deviceName": "demoDevice",
-                    "dataTimestamp": 16478464,
+                    "dataTimestamp": "16478464",
                     "payload": "234234.3, -544.00",
                     "signature": "53w4sdfasdfafartb4q34tqfasdfasdf",
                     "isValid": true
@@ -13,7 +13,7 @@
                 {
                     "deviceDID": "SCURID:DID:SDFSF22423XXOHIUZOPUP",
                     "deviceName": "demoDevice",
-                    "dataTimestamp": 16478465,
+                    "dataTimestamp": "16478465",
                     "payload": "487.3, -125.00",
                     "signature": "53w4sdfasdfafartb4q34tqfasdfasdf",
                     "isValid": true
@@ -21,7 +21,7 @@
                 {
                     "deviceDID": "SCURID:DID:SDFSF22423XXOHIUZOPUP",
                     "deviceName": "demoDevice",
-                    "dataTimestamp": 16478466,
+                    "dataTimestamp": "16478466",
                     "payload": "485.3, -5.00",
                     "signature": "",
                     "isValid": false
